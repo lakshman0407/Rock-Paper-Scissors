@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(25, 25, 25);
+    color :white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header-class {
+    font-size: 40px;
+    font: bold;
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-bottom:80px;
+}
+
+.images-div {
+    margin-left: 330px;
+}
+
+.image-class {
+    height: 90px;
+    transition: height 1ms;
+}
+/*
+.image-class:hover{
+    cursor: pointer;
+    height: 100px;
+}
+*/
+.btn-class {
+    background-color: transparent;
+    border-color: white;
+    padding: 30px;
+    border-radius: 85px;
+    margin-right: 50px;
+    border-style: solid;
+}
+
+.result {
+    font-size: 35px;
+    margin-top: 50px;
+    margin-left: 550px;
+}
+
+.score {
+    margin-top: 60px;
+    font-size: 25px;
+    margin-left: 470px;
+    margin-bottom: 40px;
+}
+
+.last-btn {
+    padding: 10px 15px;
+    margin-left: 535px;
+    font-size: larger;
+}
+
+.js-moves {
+    margin-left: 470px;
+}
