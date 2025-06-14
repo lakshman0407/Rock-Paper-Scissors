@@ -1,2 +1,2 @@
 # Rock Paper Sciccors
-A mini project of python .
+A mini project.
